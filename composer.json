@@ -1,0 +1,19 @@
+{
+  "name": "nastradamus39/telegram-client",
+  "description": "Simple http client to send simple POST request",
+  "keywords": ["bot", "log", "http"],
+  "type": "",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Alex Krizhanovsky",
+      "email": "alex@enot.vc"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "nastradamus39\\tewloger\\": ""
+    }
+  }
+}
