@@ -1,7 +1,7 @@
 {
   "name": "nastradamus39/telegram-client",
   "description": "Simple client to send messages to telegram",
-  "keywords": ["bot", "telegram"],
+  "keywords": ["bot", "telegram", "http"],
   "type": "",
   "license": "BSD-3-Clause",
   "authors": [
