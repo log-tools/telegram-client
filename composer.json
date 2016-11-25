@@ -1,7 +1,7 @@
 {
   "name": "nastradamus39/telegram-client",
-  "description": "Simple http client to send simple POST request",
-  "keywords": ["bot", "log", "http"],
+  "description": "Simple client to send messages to telegram",
+  "keywords": ["bot", "telegram"],
   "type": "",
   "license": "BSD-3-Clause",
   "authors": [
@@ -13,7 +13,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "nastradamus39\\tewloger\\": ""
+      "nastradamus39\\tewlogger\\": ""
     }
   }
 }
